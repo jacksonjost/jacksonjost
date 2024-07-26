@@ -4,7 +4,7 @@ I'm currently a Master's student in Applied Mathematics at Johns Hopkins Univers
 
 My interests lie at the intersection of imaging science and cybersecurity. I'm especially interested in image compression, AI image detection, encryption, web security, and steganography.
 
-I'm currently trying to do cool things at [Advanced Imaging Laboratory](HTTPS://advancedimage.net) and [Bioh Research](HTTP://bioh.net).
+I'm currently trying to do cool things at [Advanced Imaging Laboratory](HTTPS://advancedimage.net).
 
 If you're interested check out my [blog](HTTPS://starglow.net) or [personal website](HTTP://hereismyweb.site).
 <!--
