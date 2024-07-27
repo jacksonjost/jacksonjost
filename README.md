@@ -9,3 +9,4 @@ I'm currently trying to do cool things at [Advanced Imaging Laboratory](HTTPS://
 If you're interested check out my [blog](HTTPS://starglow.net) or [personal website](HTTP://hereismyweb.site).
 
 <!-- **jacksonjost/jacksonjost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonjost&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jackson's github stats" /></a>
