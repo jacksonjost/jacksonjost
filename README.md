@@ -6,6 +6,6 @@ My interests lie at the intersection of imaging science and cybersecurity. I'm e
 
 I'm currently trying to do cool things at [Advanced Imaging Laboratory](HTTPS://advancedimage.net).
 
-If you're interested check out my [projects](HTTPS://jost.zip) or [personal website](HTTP://hereismyweb.site).
+If you're interested check out my [projects](HTTPS://jost.zip) or [general website](HTTP://hereismyweb.site).
 
 <!-- **jacksonjost/jacksonjost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
