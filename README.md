@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm a Master's student in Applied Mathematics at Johns Hopkins University. My undergrad degree was in Applied Mathematics and Neuroscience from Syracuse University.
+I'm a grad student in Applied Mathematics at Johns Hopkins University. My undergrad degree was in Applied Mathematics and Neuroscience from Syracuse University.
 
 If you're interested check out my [projects](HTTPS://jost.zip) or [general website](HTTP://hereismyweb.site)!
 
