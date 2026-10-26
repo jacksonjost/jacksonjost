@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm a research engineer somewhere between applied probability, imaging science, and machine learning. Outside of this, particular attention is given to photographic imaging systems, Monte Carlo methods, and cryptography.
+I'm a research engineer somewhere between applied probability, imaging science, and machine learning. I'm particularly intrigued by photographic imaging systems, Monte Carlo methods, and cryptography.
 
 If you're interested in learning more, check out my [website](https://jost.zip)!
 
